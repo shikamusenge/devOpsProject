@@ -21,7 +21,7 @@ temp/
 dist/
 build/
 out/
-public/build/
+
 .cache/
 .vite/
 .parcel-cache/
@@ -33,7 +33,6 @@ public/build/
 
 # Gatsby
 .cache/
-public/
 
 # Coverage
 coverage/
